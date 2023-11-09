@@ -1,0 +1,1 @@
+copy CLoudXRServerOptions.txt %AppData%\..\Local\NVIDIA\CloudXR
