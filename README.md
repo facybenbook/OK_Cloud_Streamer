@@ -7,7 +7,7 @@ An Open-source CloudXR 4 client, based on OpenXR with OK performance and feature
 
 Goals:
 
--Provide an Open Source OpenXR-based client for CloudXR 4.0, which is still missing in the default SDK package:
+-Provide an Open Source OpenXR-based client for CloudXR 4.0, which is still missing in the default SDK package
 
 https://developer.nvidia.com/cloudxr-sdk
 
